@@ -296,11 +296,11 @@ body{
 .winter-item .winter-item-icon-mb img{
     width: 35px;
     height: 35px;
-    margin: 23px 20px 0px;
+    margin: 23px 20px 0px 0px;
 }
 
 .winter-item .winter-item-icon-sz img{
     width: 74px;
     height: unset;
-    margin: 0px 20px 0px;
+    margin: 0px 20px 0px 0px;
 }
